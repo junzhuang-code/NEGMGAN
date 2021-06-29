@@ -3,7 +3,7 @@
 ### Authors: Jun Zhuang, Mohammad Al Hasan
 
 ### Paper:
- Accepted by ECML-PKDD 2021
+ The [paper](https://arxiv.org/pdf/2106.14344.pdf) is accepted by ECML-PKDD 2021.
 
 ### Dataset:
  Three public network intrusion datasets "KDD99", "NSLKDD", "UNSWNB15" and one synthetic dataset
