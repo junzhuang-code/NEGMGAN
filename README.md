@@ -1,3 +1,5 @@
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/jun-zhuang-74800957/)
+[![Twitter](https://img.shields.io/twitter/follow/junzhuang_?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=junzhuang_)
 # Non-Exhaustive Learning Using Gaussian Mixture Generative Adversarial Networks
 
 ### Authors: Jun Zhuang, Mohammad Al Hasan
